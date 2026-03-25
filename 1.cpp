@@ -30,7 +30,7 @@ int main()
     if(flag == 1)
         printf("Numeric Constant\n this is another change ");
     else
-        printf("Not Numeric\n"no need);
+        printf("Not Numeric\n"no need to change);
 
     fclose(fp);
     return 0;
